@@ -12,3 +12,5 @@ commands:
   metierreloadconfig:
     permission: op
     aliases: mrc
+  monmetier:
+    aliases: mm
