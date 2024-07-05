@@ -1,0 +1,14 @@
+name: TeamList
+version: '${version}'
+main: fr.mathildeuh.teamtabs.TeamList
+api-version: '1.20'
+author: Mathildeuh
+description: "Teams list for Schakavun by Mathildeuh"
+commands:
+  metier:
+    description: "Permet de voir les teams des joueurs"
+    aliases: [metiers, m]
+    usage: "Wrong command: /<command>"
+  metierreloadconfig:
+    permission: op
+    aliases: mrc

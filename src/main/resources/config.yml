@@ -1,0 +1,9 @@
+metiers:
+  Alchimiste:
+    - Schakavun
+  Forgeron:
+    - Schakavun
+  Raciste:
+    - Mathildeuh
+    - Schakavun
+    - Everyone
